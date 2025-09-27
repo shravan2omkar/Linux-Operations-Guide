@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🐧 Linux Operations Guide by Shravan Vanamala
 Welcome to the Linux Operations Guide, a curated, real-world documentation set designed for everyone — from students and beginners to DevOps engineers, architects, and project managers. This guide is built to simplify Linux, automate operations, and prepare you for production environments and interviews.
 
@@ -37,10 +36,6 @@ This is not just another Linux cheat sheet. It’s a real-world operations guide
 - 🧩 Modular and reusable
 - 🛠️ Practical and production-tested
 - 🧪 Interview-ready
-
-📜 License & Attribution
-This project is licensed under the MIT License.
-Please credit Shravan Vanamala when sharing or adapting this work.
 
 🚀 Let’s Build Together
 If this guide helps you:
