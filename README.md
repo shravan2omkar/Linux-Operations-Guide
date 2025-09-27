@@ -43,8 +43,4 @@ If this guide helps you:
 - 🛠️ Contribute improvements
 - 📢 Share with your network
 - 🧠 Use it for interviews, onboarding, and training
-
-Let me know when you're ready to start pushing this to GitHub — I can help you prep the first few .md files too. Want me to begin with 01_Basics_For_Beginners.md next?
-=======
-# Linux-Operations-Guide
 A modular, production-grade guide for Linux operations—built for sysadmins, DevOps engineers, and curious learners. Includes a downloadable PDF, Markdown index, and clean licensing for universal access and public sharing.
