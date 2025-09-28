@@ -1,24 +1,25 @@
-# 📚 Linux Operations Guide Index
+---
+title: "Linux Operations Guide"
+author: "Shravan Kumar Vanamala"
+date: "2025-09-28"
+license: "CC BY 4.0"
+toc: true
+numbersections: true
+fontsize: 12pt
+documentclass: article
+---
 
-Welcome to the Linux Operations Guide by Shravan Vanamala. Use the links below to navigate:
+# Introduction
+Welcome to the Linux Operations Guide. This document covers essential commands and workflows for system administrators and DevOps engineers.
 
-## 🔰 Beginner & Intermediate
-- [01_Basics_For_Beginners](docs/01_Basics_For_Beginners.md)
-- [02_Intermediate_Usage](docs/02_Intermediate_Usage.md)
+## User Management
+Use `useradd`, `usermod`, and `userdel` to manage users.
 
-## 🧠 Advanced & Architecture
-- [03_Advanced_Operations](docs/03_Advanced_Operations.md)
-- [04_Architecture_Insights](docs/04_Architecture_Insights.md)
+## Process Monitoring
+Commands like `ps`, `top`, `htop`, and `kill` help monitor and control processes.
 
-## 🛠️ Troubleshooting & Security
-- [05_Troubleshooting](docs/05_Troubleshooting.md)
-- [06_Security_Best_Practices](docs/06_Security_Best_Practices.md)
+## Networking
+Troubleshoot with `ip`, `ping`, `netstat`, and `ss`.
 
-## ⚙️ Automation & DevOps
-- [07_Scripting_and_Automation](docs/07_Scripting_and_Automation.md)
-- [08_DevOps_Integration](docs/08_DevOps_Integration.md)
-
-## 🧪 Interview & Reference
-- [09_Interview_Questions](docs/09_Interview_Questions.md)
-- [10_Reference_CheatSheets](docs/10_Reference_CheatSheets.md)
-- [11_Scenario_Based_QA](docs/11_Scenario_Based_QA.md)
+## Shell Scripting
+Automate tasks using Bash scripts with loops, conditionals, and functions.
